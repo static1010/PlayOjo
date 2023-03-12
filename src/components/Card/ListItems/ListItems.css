@@ -1,0 +1,8 @@
+@media screen and (min-width: 820px) and (max-width: 1440px) {
+  .liItems {
+    grid-area: overlap;
+    position: absolute;
+    top: -4.313rem;
+    left: -43.063rem;
+  }
+}

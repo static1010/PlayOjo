@@ -1,0 +1,8 @@
+@media screen and (min-width: 820px) and (max-width: 1440px){
+  .jouerBtn {
+    grid-area: overlap;
+    position: absolute;
+    top: -8.313rem;
+    left: -27.975rem;
+  }
+}
