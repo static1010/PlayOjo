@@ -5,7 +5,7 @@ import Lock from "../UI/Lock";
 const Header = () => {
   return (
     <Fragment>
-      <div className="xxl:ml-[14rem]">
+      <div className="xxl:ml-[12rem]">
         <h1 className="text-left text-primary text-[1.688rem] font-bold tracking-[-0.27px] opacity-[1] font-montserrat">
           LES MEILLEURS CASINOS EN LIGNE DU MOMENT
         </h1>
